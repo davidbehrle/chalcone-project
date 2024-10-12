@@ -12,3 +12,7 @@
 **/*.cb
 **/*.cb2
 **/*.lb
+
+**/*.bbl
+**/*.blg
+acs-chalconeproject.bib
